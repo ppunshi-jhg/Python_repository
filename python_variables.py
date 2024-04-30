@@ -21,3 +21,8 @@ print(z)
 print(a)
 print(b)
 print(c)
+
+# In python we use f string to conctenate the string or anything in print statement
+
+
+print(f"Prince has {x} dollars")
