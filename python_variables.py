@@ -26,3 +26,11 @@ print(c)
 
 
 print(f"Prince has {x} dollars")
+
+# Arithmetic operation in python
+
+print(5+3)
+print(5-3)
+print(5/5)
+print(5%5)
+print(5**5)
