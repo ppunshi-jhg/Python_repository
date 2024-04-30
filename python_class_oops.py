@@ -5,6 +5,8 @@
 class Person:
     name="Prince"
     occupation="System Engineer"
+    def info(self):
+        print(f"{self.name} is {self.occupation}")
     
 a= Person()
 print(a.name)
@@ -13,3 +15,13 @@ print(a.name)
 
 a.name="Dhwani"
 print(a.name)
+
+# You can define a method in classa s well
+
+print(a.info())
+
+# Self refer to the instance on which variable and methods are called- like on a which is an instance of Person class so when you do a.info() self refer to "a"- whichever object call info- self becomes that and help to access the variables
+
+
+
+
