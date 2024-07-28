@@ -1,5 +1,6 @@
 
 # Constructor- is a function which gets called whenever you create an instance of the class and it needs to be made on the top after defined the class and you can pass argumments to your constructor and it can be passed whenever an instance is created.
+#Checking my account
 
 class Person:
     # def __init__(self):
