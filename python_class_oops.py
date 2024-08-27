@@ -1,7 +1,7 @@
 # Let's say a person A has sales of 5000 RS and profit of 2000 Rs and a person spend 1000 Rs on ads, so how you store these things- in a variable right. Now- lets say there is another person B having sales, profit and ads so you cant store value into the same variables so you need to create different varibale for person B , and same for person C stc stc. So- whats the best approach?
 
 # Create a class, and let everyone use that class variable and methods. Class is a blueprint and we use that blueprint and it shows how the objects will look alike. When you make an object of that class- you get acces to their varibales and methods. 
-# Just testing the github notifications
+# Just testing the github notifications 1
 class Person:
     name="Prince"
     occupation="System Engineer"
