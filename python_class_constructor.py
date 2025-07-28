@@ -10,7 +10,7 @@ class Person:
         self.age=age
     def info(self):
         print(f"My name is {self.name} and my age is {self.age}")
-        
+
 
 
 p=Person("Prince",29)
